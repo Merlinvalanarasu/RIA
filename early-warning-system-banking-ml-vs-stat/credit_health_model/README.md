@@ -64,7 +64,7 @@ Follow these steps to set up and run the project locally.
     * Add your database password and your OpenAI API key. This file is essential for the application to connect to its services.
         ```env
         # .env
-        MYSQL_PASSWORD="mukunth"
+        MYSQL_PASSWORD="your_password"
         LLM_API_KEY="sk-your-secret-openai-key"
         ```
 
